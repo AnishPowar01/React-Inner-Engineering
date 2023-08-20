@@ -12,8 +12,6 @@ This repository contains a simple implementation of a custom rendering function 
 - [Usage](#usage)
 - [Example](#example)
 - [How It Works](#how-it-works)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
