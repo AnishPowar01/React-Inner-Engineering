@@ -1,8 +1,6 @@
 # React-Inner-Engineering
 
-Certainly! Here's a template for a README file for the provided code:
-
-# Custom Render Function for React-Like Elements
+## Custom Render Function for React-Like Elements
 
 This repository contains a simple implementation of a custom rendering function inspired by React's rendering process. The function `customRender` takes a virtual element representation and renders it as a DOM element within a specified container.
 
